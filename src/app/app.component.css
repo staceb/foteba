@@ -1,0 +1,16 @@
+#topo {
+    background-color: #515151;
+    height: 100px;
+    color: #e18109;
+}
+#topo .col {
+    text-align: center;
+}				
+#rodape {
+    padding-top: 20px;
+    background-color: #515151;
+    height: 130px;
+    width: 100%;
+    position: fixed;
+    bottom: 0px;
+}
